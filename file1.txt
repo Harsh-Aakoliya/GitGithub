@@ -1,3 +1,3 @@
 This is main file created by author
-Bug 1: Trying to resolve this bug 
+Bug 1: Truying to fixes more changes 
 Bug 2:
